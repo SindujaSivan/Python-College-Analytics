@@ -4,6 +4,12 @@
 ### Objective:
 The objective of the Forbes College Explorer is to utilize a Python program to explore and analyze Forbes Magazine's annual list of America's best colleges. This tool aims to provide a user-friendly platform for students and families to make informed decisions by facilitating exploration and comparison of colleges based on various criteria such as academic performance, experiences, career success, and debt levels.
 
+![Forbes College Image](assets/Forbes_College_Image_2019.png)
+
+*Picture reference: [forbes-releases-annual-ranking-of-americas-top-colleges](https://imageio.forbes.com/specials-images/imageserve/5d55764795808800097ce87e/Top-Colleges/960x0.png?format=png&width=1440)*
+
+<span style="font-size: 2pt;">*Picture reference: [forbes-releases-annual-ranking-of-americas-top-colleges](https://imageio.forbes.com/specials-images/imageserve/5d55764795808800097ce87e/Top-Colleges/960x0.png?format=png&width=1440)*</span>
+
 ### Functionality:
 
 1. **Exploration:**
