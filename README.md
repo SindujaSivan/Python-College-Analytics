@@ -1,4 +1,3 @@
-# Python-College-Analytics
 
 ## Problem Statement:
 
