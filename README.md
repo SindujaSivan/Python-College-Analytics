@@ -15,12 +15,7 @@ The objective of the Forbes College Explorer is to utilize a Python program to e
 2. **Python Utilization:**
    - Leverage Python's capabilities for efficient data handling and analysis.
    - Ensure the implementation of user-friendly and interactive features.
-### Initial Data Analysis:
-
-![image](https://github.com/SindujaSivan/Python-College-Analytics/assets/150477391/214a7dd6-5336-417d-9319-b7d3845eb0d0)
-
-![image](https://github.com/SindujaSivan/Python-College-Analytics/assets/150477391/4e1d9245-f4d4-4070-b8e1-4830fba3cd29)
-
+     
 ### Data Presentation:
 
 1. **Insights:**
