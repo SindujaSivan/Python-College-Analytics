@@ -1,9 +1,8 @@
 theme: jekyll-theme-minimal
 title: Python College Analytics
 description: >
-  <h2>College Data Analysis using basic python commandst</h2>
+  <h3>College Data Analysis using basic python commandst</h3>
   <p>
-    <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/sindujasivasailam" target="_blank"> Sinduja S</a> 
     <br>
     <br>
     <b>Libraries:</b>
@@ -11,10 +10,6 @@ description: >
       <li>Pandas</li>
       <li>DataFrame</li>
     </ul>
-    <br>
-    <br>
-    <br>
-    <br>
     <br>
     <br>
     <br>
