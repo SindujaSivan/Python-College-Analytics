@@ -6,9 +6,7 @@ The objective of the Forbes College Explorer is to utilize a Python program to e
 
 ![Forbes College Image](assets/Forbes_College_Image_2019.png)
 
-*Picture reference: [forbes-releases-annual-ranking-of-americas-top-colleges](https://imageio.forbes.com/specials-images/imageserve/5d55764795808800097ce87e/Top-Colleges/960x0.png?format=png&width=1440)*
-
-<span style="font-size: 2pt;">*Picture reference: [forbes-releases-annual-ranking-of-americas-top-colleges](https://imageio.forbes.com/specials-images/imageserve/5d55764795808800097ce87e/Top-Colleges/960x0.png?format=png&width=1440)*</span>
+<span style="font-size: 8pt;">*Picture reference: [forbes-releases-annual-ranking-of-americas-top-colleges](https://imageio.forbes.com/specials-images/imageserve/5d55764795808800097ce87e/Top-Colleges/960x0.png?format=png&width=1440)*</span>
 
 ### Functionality:
 
